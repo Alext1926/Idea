@@ -1,7 +1,7 @@
 <nav class="border-b border-border px-6">
     <div class="max-w-7xl mx-auto h-16 flex items-center justify-between">
     <div>
-        <a href="">
+        <a href="{{ route('idea.index') }}">
             <img src="/images/logo.png" style="width: 27%; height: auto;" alt="Idea logo">
         </a>
         </div>

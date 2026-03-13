@@ -1,7 +1,6 @@
 <?php
 
 use App\Models\Idea;
-use App\Models\Step;
 use App\Models\User;
 
 test('it belongs to a user', function () {
